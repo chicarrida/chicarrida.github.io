@@ -263,10 +263,28 @@ pre {
 .page-heading {
   font-size: 20px; }
 
+.home {
+  width: 350px;
+  float: left; }
+
+.home-rlx {
+  width: 350px;
+  float: right; }
+
 .post-list {
+  float: left;
+  width: 400px;
   margin-left: 0;
   list-style: none; }
   .post-list > li {
+    margin-bottom: 30px; }
+
+.rlx-post-list {
+  float: right;
+  width: 400px;
+  margin-left: 0;
+  list-style: none; }
+  .rlx-post-list > li {
     margin-bottom: 30px; }
 
 .post-meta {

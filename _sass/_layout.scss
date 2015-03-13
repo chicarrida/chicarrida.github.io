@@ -161,6 +161,7 @@
 /**
  * Page content
  */
+
 .page-content {
     padding: $spacing-unit 0;
 }
@@ -169,7 +170,18 @@
     font-size: 20px;
 }
 
+
+.home{
+    width: 350px;
+    float: left;
+}
+.home-rlx{
+    width: 350px;
+    float: right;
+}
 .post-list {
+    float: left;
+    width: 400px;
     margin-left: 0;
     list-style: none;
 
@@ -177,6 +189,18 @@
         margin-bottom: $spacing-unit;
     }
 }
+
+.rlx-post-list {
+    float: right;
+    width: 400px;
+    margin-left: 0;
+    list-style: none;
+
+    > li {
+        margin-bottom: $spacing-unit;
+    }
+}
+
 
 .post-meta {
     font-size: $small-font-size;
