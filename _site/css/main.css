@@ -273,7 +273,7 @@ pre {
 
 .post-list {
   float: left;
-  width: 400px;
+  width: 350px;
   margin-left: 0;
   list-style: none; }
   .post-list > li {
@@ -281,7 +281,7 @@ pre {
 
 .rlx-post-list {
   float: right;
-  width: 400px;
+  width: 350px;
   margin-left: 0;
   list-style: none; }
   .rlx-post-list > li {
