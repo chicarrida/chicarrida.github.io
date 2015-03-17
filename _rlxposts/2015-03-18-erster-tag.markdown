@@ -8,9 +8,13 @@ published: false
 ---
 
 Nach einem langen Flug über Abu Dhabi und Jakarta bin ich am Sonntag Abend in Denpasar angekommen. Dort wurde ich netterweise von Philip und Andreas, zwei weiteren Teilnehmern von Hacker Paradise in Empfang genommen. Dann noch eine Stunde Taxifahrt, Diskussion mit dem Taxifahrer, Hotelsuche im nächtlichen Ubud und ein Feierabend Bier.
-Insgesamt sind wir auf drei Unterkünfte verteilt, die Villa, direkt hinter dem Hubud wo wir auch Arbeiten, Nuriani, 5 Minuten um die Ecke(da in ich) und noch einem Hotel etwas weiter weg. 
 
-![Der kleine Pool der Villa](//_rlxposts/_villa.JPG)
+![Aussicht vom Hotelzimmer](/_rlxposts/_aussicht.JPG)
+
+Am nächsten morgen erst mal die Aussicht vom Balkon genossen. Dann 5 Minuten zu Fuss zur Villa, dort gab es Frühstück und die anderen Teilnehmer. 
+Insgesamt sind wir auf drei Unterkünfte verteilt, die Villa, direkt hinter dem Hubud wo wir auch Arbeiten, Nuriani(da in ich) und noch einem Hotel etwas weiter weg. 
+
+![Der kleine Pool der Villa](/images/_villa.JPG)
 
 Der erste Tag in Ubud begann mit einem Frühstück in der Villa. Dann natürlich erst mal Rechnerkram klären. Danach dann ein Spaziergang durch den Monkeyforest auf der anderen Strassenseite.
 
