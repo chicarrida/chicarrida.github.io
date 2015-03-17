@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Erster Tag Ubud
-date: {}
+date:  2015-03-18 12:50:00 
 comments: true
 categories: jekyll update
-published: false
+
 ---
 
 Nach einem langen Flug über Abu Dhabi und Jakarta bin ich am Sonntag Abend in Denpasar angekommen. Dort wurde ich netterweise von Philip und Andreas, zwei weiteren Teilnehmern von Hacker Paradise in Empfang genommen. Dann noch eine Stunde Taxifahrt, Diskussion mit dem Taxifahrer, Hotelsuche im nächtlichen Ubud und ein Feierabend Bier.
@@ -19,6 +19,8 @@ Insgesamt sind wir auf drei Unterkünfte verteilt, die Villa, direkt hinter dem 
 Der erste Tag in Ubud begann mit einem Frühstück in der Villa. Dann natürlich erst mal Rechnerkram klären. Danach dann ein Spaziergang durch den Monkeyforest auf der anderen Strassenseite.
 
 ![Affe im Monkeyforrest](/images/_affe.JPG)
+ 
+Wie zu erwarten eine Menge zutraulicher Affen die Futter von einem wollen und sich das zur Not natürlich auch selber aus deinem Rucksack holen. Und Tempel und schöne verzierungen.
 
 ![Echsenstatuen im Monkeyforrest] (/images/_echsen.JPG)
 
