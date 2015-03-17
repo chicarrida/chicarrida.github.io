@@ -7,7 +7,7 @@ layout: default
   <h1 class="page-heading">Coding</h1>
 <p>I'm joining Hacker Paradise for one month in Bali, here I'll ocassionally blog about coding..</p>
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts reversed %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -27,7 +27,7 @@ layout: default
   <h1 class="page-heading">Relaxing</h1>
 <p>..and relaxing in Ubud. The relaxing stuff will be in german (^_^).</p>
   <ul class="rlx-post-list">
-    {% for post in site.rlxposts %}
+    {% for post in site.rlxposts reversed %} 
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -36,6 +36,8 @@ layout: default
         </h2>
       </li>
     {% endfor %}
+
+
   </ul>
 
 <!--  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>-->
