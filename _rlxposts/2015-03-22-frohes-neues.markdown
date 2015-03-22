@@ -10,11 +10,17 @@ Am Freitag war ich mit Anggi verabredet. Sie arbeitet im Spa direkt neben dem Hu
 
 Auf ihrem Motorroller ging es in das Dorf BakBakan. Dort gab es schnell ein Abendessen und mir wurde ein Sari umgelegt. Zunächst gab es eine kleine Zeremonie im Familientempel und dann auf die Strasse. Für das Neujahrsfest basteln die Kinder und Jugendlichen Figuren die das böse oder den Teufel verbildlichen. Diese wurden dann durch das Dorf getragen und die Dorfbewohner machen schön Lärm dazu. 
 
-![Gleich gehts los](https://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/_nacbarn.JPG)
-
 ![Kinderparade](https://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/_parade.JPG)
 
+<!--![erster](https://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/_erstes_monster.JPG)-->
+
+![saeufer](https://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/_fighting.JPG)
+
 ![attacke](https://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/_hunting.JPG)
+
+![crowd](https://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/_crowd.JPG)
+
+<!--![devil](https://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/_roter_teufel.JPG)-->
 
 Wir sind also losgelaufen als es dunkel wurde, an jeder Kreuzung sind die Träger durchgedreht und haben die Figuren geschüttelt.Ab durch den Wald auf ein Feld gelaufen, eine kleine Pause und wieder zurück, an der nächsten Kreuzung die andere Abzweigung genommen und noch mal das ganze. Dann ins Bett :-)
 
