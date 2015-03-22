@@ -12,7 +12,7 @@ Nach einem langen Flug über Abu Dhabi und Jakarta bin ich am Sonntag Abend in D
 ![Aussicht vom Hotelzimmer](https://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/_aussicht.JPG)
 
 Am nächsten morgen erst mal die Aussicht vom Balkon genossen. Dann 5 Minuten zu Fuss zur Villa, dort gab es Frühstück und die anderen Teilnehmer. 
-Insgesamt sind wir auf drei Unterkünfte verteilt, die Villa, direkt hinter dem Hubud wo wir auch Arbeiten, Nuriani(da bin ich) und noch einem Hotel etwas weiter weg. 
+Insgesamt sind wir auf drei Unterkünfte verteilt, die Villa, direkt hinter dem Hubud wo wir auch Arbeiten, Nuriani (da bin ich) und noch einem Hotel etwas weiter weg. 
 
 ![Der kleine Pool der Villa](https://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/_villa.JPG)
 
