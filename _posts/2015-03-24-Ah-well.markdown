@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Ah, well...."
+date: 2015-03-24 13:14:00
+comments: true
+categories: jekyll update
+---
+
+Not much coding going on right now, I could blame the weather or the view.... 
+
+I continued wit my PatternRepeater, set up a new approach, still WIP. Sunday we had a Hackday. I joined a group that visualized data from [coinmarketcap](http://coinmarketcap.com/) using [D3](http://d3js.org/) - yeah! Result can be found [here](http://cc.binaryage.com/). 
+
+Today the it looks like its going to be more cloudy, meaning I could actually do some coding - on the other hand it also means I can go for a walk and explore Ubud - ah, well....

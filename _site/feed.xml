@@ -5,9 +5,28 @@
     <description></description>
     <link>https://github.com/chicarrida/chicarrida.github.io/blob/master/</link>
     <atom:link href="https://github.com/chicarrida/chicarrida.github.io/blob/master/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Mar 2015 13:11:06 +0800</pubDate>
-    <lastBuildDate>Tue, 24 Mar 2015 13:11:06 +0800</lastBuildDate>
+    <pubDate>Tue, 24 Mar 2015 13:32:42 +0800</pubDate>
+    <lastBuildDate>Tue, 24 Mar 2015 13:32:42 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Ah, well....</title>
+        <description>&lt;p&gt;Not much coding going on right now, I could blame the weather or the view…. &lt;/p&gt;
+
+&lt;p&gt;I continued wit my PatternRepeater, set up a new approach, still WIP. Sunday we had a Hackday. I joined a group that visualized data from &lt;a href=&quot;http://coinmarketcap.com/&quot;&gt;coinmarketcap&lt;/a&gt; using &lt;a href=&quot;http://d3js.org/&quot;&gt;D3&lt;/a&gt; - yeah! Result can be found &lt;a href=&quot;http://cc.binaryage.com/&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;Today the it looks like its going to be more cloudy, meaning I could actually do some coding - on the other hand it also means I can go for a walk and explore Ubud - ah, well….&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Mar 2015 21:14:00 +0800</pubDate>
+        <link>https://github.com/chicarrida/chicarrida.github.io/blob/master/jekyll/update/2015/03/24/Ah-well.html</link>
+        <guid isPermaLink="true">https://github.com/chicarrida/chicarrida.github.io/blob/master/jekyll/update/2015/03/24/Ah-well.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>The Journey begins tomorrow</title>
