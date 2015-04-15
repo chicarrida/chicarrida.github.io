@@ -19,7 +19,7 @@ Am ersten Tag haben wir nicht viel gemacht, am Strand spaziert und Abends in ein
 
 Am nächsten Tag dann mit den Fahrrädern zum Mangrovenwald und dort eine Bootstour
 
-![mangrovenwald](ttps://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/lembongan/mangrove_2.JPG)
+![mangrovenwald](https://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/lembongan/mangrove_2.JPG)
 
 ![See-Meer](https://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/lembongan/mangrove_sea.JPG)
 
