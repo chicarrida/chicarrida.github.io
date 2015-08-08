@@ -5,8 +5,8 @@
     <description></description>
     <link>https://github.com/chicarrida/chicarrida.github.io/blob/master/</link>
     <atom:link href="https://github.com/chicarrida/chicarrida.github.io/blob/master/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Apr 2015 12:42:33 +0200</pubDate>
-    <lastBuildDate>Wed, 15 Apr 2015 12:42:33 +0200</lastBuildDate>
+    <pubDate>Sat, 08 Aug 2015 12:30:46 +0200</pubDate>
+    <lastBuildDate>Sat, 08 Aug 2015 12:30:46 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -23,11 +23,11 @@ On mouseReleased I get the current position, snap it to a grid and add this newl
 I then sort this list based on the position going from left to right and up to down. 
 For each shape in the list I determine the distance to the ‘parent’ shape, at list[i-1] and add it to this one as a child. 
 I also get the maximum x and y distance, they make up the size for one pattern element, like a tile.
-And then I draw, starting from the first list element and recursively going through the list, drawing one tile after the other. &lt;/p&gt;
+And then I draw, starting from the first list element and recursively going through the list, drawing one tile after the other.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/coding/_patternExample.JPG&quot; alt=&quot;Pattern example&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I also draw the initial shapes in pink, they are not aligned with the generated ones. So on the screen its like two layers, the one to build up my ttile with the initial hspes and one that shows me the generated pattern. &lt;/p&gt;
+&lt;p&gt;I also draw the initial shapes in pink, they are not aligned with the generated ones. So on the screen its like two layers, the one to build up my ttile with the initial hspes and one that shows me the generated pattern.&lt;/p&gt;
 
 &lt;p&gt;I see this as a kind of prove of concept that the algorithm works. I’m thinking of changing it in a way so the generated pattern would actually fit in with the initial ones. For that I think of moving the origin to the top left corner of my element and then draw to all four quadrants and mirror accordingly. But first there is a beach trip setup for tomorrow and today there is an acroyoga class…&lt;/p&gt;
 
@@ -47,9 +47,9 @@ And thanks to Stefan for finding my redrawing bug :-)&lt;/p&gt;
     
       <item>
         <title>Ah, well....</title>
-        <description>&lt;p&gt;Not much coding going on right now, I could blame the weather or the view…. &lt;/p&gt;
+        <description>&lt;p&gt;Not much coding going on right now, I could blame the weather or the view….&lt;/p&gt;
 
-&lt;p&gt;I continued wit my PatternRepeater, set up a new approach, still WIP. Sunday we had a Hackday. I joined a group that visualized data from &lt;a href=&quot;http://coinmarketcap.com/&quot;&gt;coinmarketcap&lt;/a&gt; using &lt;a href=&quot;http://d3js.org/&quot;&gt;D3&lt;/a&gt; - yeah! Result can be found &lt;a href=&quot;http://cc.binaryage.com/&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;I continued wit my PatternRepeater, set up a new approach, still WIP. Sunday we had a Hackday. I joined a group that visualized data from &lt;a href=&quot;http://coinmarketcap.com/&quot;&gt;coinmarketcap&lt;/a&gt; using &lt;a href=&quot;http://d3js.org/&quot;&gt;D3&lt;/a&gt; - yeah! Result can be found &lt;a href=&quot;http://cc.binaryage.com/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Today the it looks like its going to be more cloudy, meaning I could actually do some coding - on the other hand it also means I can go for a walk and explore Ubud - ah, well….&lt;/p&gt;
 </description>
