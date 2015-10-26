@@ -267,6 +267,10 @@ pre {
   width: 350px;
   float: left; }
 
+.left-side {
+  width: 150px;
+  float: left; }
+
 .home-rlx {
   width: 350px;
   float: right; }
@@ -285,6 +289,14 @@ pre {
   margin-left: 0;
   list-style: none; }
   .rlx-post-list > li {
+    margin-bottom: 30px; }
+
+.random-post-list {
+  float: right;
+  width: 350px;
+  margin-left: 0;
+  list-style: none; }
+  .random-post-list > li {
     margin-bottom: 30px; }
 
 .post-meta {

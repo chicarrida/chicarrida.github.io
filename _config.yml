@@ -1,5 +1,5 @@
 # Site settings
-title: coding and relaxing in Bali
+title: random stuff
 #email: chicarrida@gmail.com	
 #description: > # this means to ignore newlines until "baseurl:"
  # One month coding in Bali in Hacker Paradise, I'm so excited!
@@ -12,7 +12,7 @@ github_username: chicarrida
 markdown: kramdown
 
 collections:
- rlxposts:
-        output: true
-
-
+  rlxposts:
+          output: true
+  randomposts:
+         output: true
