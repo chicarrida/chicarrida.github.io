@@ -6,3 +6,4 @@ comments: true
 categories: jekyll update
 ---
 Looks like I'm going back to school, the [School of Machines, Make and Make-Believe]("http://schoolofma.org/") to attend a course about Data Visualisation. I hope to have the time to write about it :-)
+I also started to change the structure of the site a little, not done yet though...
