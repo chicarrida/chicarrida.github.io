@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-bali
 title: Erster Tag Ubud
 date:  2015-03-18 12:50:00 
 comments: true

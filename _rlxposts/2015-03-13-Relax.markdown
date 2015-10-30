@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-bali
 title:  "Morgen gehts los"
 date:   2015-03-13 18:15:32
 comments: true

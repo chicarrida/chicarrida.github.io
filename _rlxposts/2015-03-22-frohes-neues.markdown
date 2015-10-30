@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-bali
 title: Frohes Neues!
 date: 2015-03-22 20:28:00
 comments : true

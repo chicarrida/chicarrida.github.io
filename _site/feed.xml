@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>random stuff</title>
+    <title>Back to School</title>
     <description></description>
     <link>https://github.com/chicarrida/chicarrida.github.io/blob/master/</link>
     <atom:link href="https://github.com/chicarrida/chicarrida.github.io/blob/master/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Oct 2015 21:49:24 +0100</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2015 21:49:24 +0100</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2015 10:03:03 +0100</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2015 10:03:03 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -67,6 +67,7 @@ And thanks to Stefan for finding my redrawing bug :-)&lt;/p&gt;
       <item>
         <title>The Journey begins tomorrow</title>
         <description>&lt;p&gt;Title says it all, my flight goes tomorrow and by Sunday evening, resp. midday I’ll be in Bali! &lt;em&gt;excited&lt;/em&gt;&lt;/p&gt;
+
 </description>
         <pubDate>Fri, 13 Mar 2015 19:13:32 +0100</pubDate>
         <link>https://github.com/chicarrida/chicarrida.github.io/blob/master/jekyll/update/2015/03/13/welcome-to-jekyll.html</link>

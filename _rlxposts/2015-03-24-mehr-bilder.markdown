@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-bali
 title: Mehr Bilder!
 date: 2015-03-24 11:33:00
 comments: true

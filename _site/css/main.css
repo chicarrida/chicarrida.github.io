@@ -160,6 +160,16 @@ pre {
   .site-title, .site-title:visited {
     color: #424242; }
 
+.extended-site-title {
+  font-size: 26px;
+  line-height: 56px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+  margin-left: 25px; }
+  .extended-site-title, .extended-site-title:visited {
+    color: #424242; }
+
 .site-nav {
   float: right;
   line-height: 56px; }
@@ -269,6 +279,10 @@ pre {
 
 .left-side {
   width: 150px;
+  float: left; }
+
+.left-menu {
+  width: 80px;
   float: left; }
 
 .home-rlx {

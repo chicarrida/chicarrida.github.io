@@ -22,7 +22,18 @@
         color: $grey-color-dark;
     }
 }
-
+.extended-site-title {
+    font-size: 26px;
+    line-height: 56px;
+    letter-spacing: -1px;
+    margin-bottom: 0;
+    float: left;
+    margin-left: 25px;
+    &,
+    &:visited {
+        color: $grey-color-dark;
+    }
+}
 .site-nav {
     float: right;
     line-height: 56px;
@@ -179,6 +190,12 @@
      width: 150px;
      float: left;
 }
+
+.left-menu{
+  width: 80px;
+  float: left;
+}
+
 .home-rlx{
     width: 350px;
     float: right;

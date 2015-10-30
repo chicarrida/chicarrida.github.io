@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-bali
 title: "Ah, well...."
 date: 2015-03-24 13:14:00
 comments: true

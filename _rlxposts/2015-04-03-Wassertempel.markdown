@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-bali
 title: Wassertempel
 date: 2015-04-03 22:10:00
 comments: true

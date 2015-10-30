@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-bali
 title:  "Lembongan"
 date:   2015-04-15 11:44:32
 comments: true
