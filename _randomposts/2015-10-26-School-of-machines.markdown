@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Back to School!" 
-date:   2015-10-30 10:34:00
+date:   2015-11-01 14:21:00
 comments: true
 categories: jekyll update
 ---
