@@ -12,4 +12,10 @@ This exercise was inspired by [Santiago Ortiz](http://blog.visual.ly/45-ways-to-
 
 After lunch we had time to think about how we want to visualize our data set. Of course I started of writing a Processing sketch until Rachel pointed out I might want to try a different approach as long as Stefanie is here. While talking the idea of books flying in and out of a shelf came up. 
 
-On wednesday it was all about physical data visualisation, moving from the 2d space of paper and screen to the physical world, printing things, building sculptures or using food to transport information. I liked the food idea.
+On wednesday it was all about physical data visualisation, moving from the 2d space of paper and screen to the physical world, printing things, building sculptures or using food to transport information. I liked the food idea, of course... So I checked where most immigrants in Berlin come from and where the majority of them stays in Berlin. As most people in Berlin are still german, mashed potato was my basis. I build A map of Berlin out of mashed potato. Some regions were flavoured, for example, most of the russian living in Berlin live in Spandau, therefore this part was flavoured with Vodka and pickled cucumber, for the turkish it was feta cheese and garlic, hummus and driad date for arabian, coconutmilk and lemongras for vietnamese and borschtsch and sauerkraut for the polish.
+
+Thursday we got all got the same data set, weather data of the month January. Manually everyone drew a visualisation, searching for symbols and what to focus on.
+
+Friday we wanted to focus on 3D printing - unfortunately the printer broke. Later there was an artist talk by Maral Pourkazemi who did [this](https://vimeo.com/58885866) amazing visualisation on internet and Iran.
+
+Pictures will be added soon...
