@@ -14,7 +14,7 @@ Quick reminder, I made the shape of Berlin out of mashed potatoes as the most pe
 
 ![map](https://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/school_of_ma/berlin_map.jpg)
 
-I asked the other participants to try it and guess which taste refers to what country. This was fun, as Beverley from Singopore has a totally different taste assumption I'll call it.
+I asked the other participants to try it and guess which taste refers to what country. This was fun, as Beverley from Singapore has a totally different taste assumption I'll call it.
 
 ![taste](https://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/school_of_ma/taste.jpg)
 
