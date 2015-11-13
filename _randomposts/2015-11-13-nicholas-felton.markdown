@@ -18,8 +18,6 @@ I did another sketch using the dataset I got from the library. Last week Monday 
 
 ![library](https://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/school_of_ma/biblio.png)
 
-And another sketch with the library data, using an attractor and particle class I got from Nicholas, so this is actually animated and the ages is renderd on the x-axis.
-
-
+And another sketch with the library data, using an attractor and particle class I got from Nicholas, so this is actually animated and the age is renderd on the x-axis.
 
 The sketches are on  [github](https://github.com/chicarrida/School_of_Ma_Nicholas).
