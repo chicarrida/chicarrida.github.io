@@ -14,10 +14,10 @@ He gave a nice introduction to the basics of processing. For the assignment we g
 
 I visualised the data as cubes, taking the linecount for the length of the sides, as you might know, area is hard to understand for the eye. As the variation was just too big, Nicholas suggested to take the square root. Actually if you click on the running sketch it changes to bars.  
 
-I did another sketch using the dataset I got from the library. Last week Monday I spent ~30min at the library writing down who brought and took books, gender, age, with children. I came up with this sketch. It is actually missing the age data.
+I did another sketch using the dataset I got from the library. Last week Monday I spent ~30min at the library writing down who brought and took books, gender, age, with children. I came up with this sketch on the left. It is actually missing the age data.
 
 ![library](https://raw.githubusercontent.com/chicarrida/chicarrida.github.io/master/images/school_of_ma/biblio.png)
 
-And another sketch with the library data, using an attractor and particle class I got from Nicholas, so this is actually animated and the age is renderd on the x-axis.
+And the other sketch on the right, same data, using an attractor and particle class I got from Nicholas, so this is actually animated and the age is renderd on the x-axis.
 
 The sketches are on  [github](https://github.com/chicarrida/School_of_Ma_Nicholas).
