@@ -10,6 +10,7 @@ github_username: chicarrida
 
 # Build settings
 markdown: kramdown
+theme: architect
 
 collections:
   rlxposts:
